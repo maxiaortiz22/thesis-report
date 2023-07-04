@@ -1,0 +1,12 @@
+Sala 1:
+
+	* Posición 1 y Audio 2
+	* Posición 2 y Audio 2
+
+Sala 2:
+	* Posición 1 y Audio 2
+	* Posición 3 y Audio 1
+
+Sala 3:
+	* Posición 1 y Audio 2
+	* Posición 3 y Audio 2
